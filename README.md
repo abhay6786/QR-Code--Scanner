@@ -19,7 +19,7 @@ This is the design made by me of QR code component.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://abhay6786.github.io/QR-Code--Scanner/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
