@@ -13,7 +13,6 @@ This is the design made by me of QR code component.
 ### Screenshot
 
 ![Desktop view](./images/Screenshot%20(1).png)
-![Mobile view](./images/Screenshot%20(2)-1.png)
 
 
 ### Links
