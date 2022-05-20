@@ -13,11 +13,11 @@ This is the design made by me of QR code component.
 ### Screenshot
 
 ![Desktop view](./images/Screenshot%20(1).png)
-![Mobile view](./images/Screenshot%20(2)-1.png)
+
 
 ### Links
 
-- Solution URL: [Code of Solution](https://abhay6786.github.io/QR-Code--Scanner/)
+- Solution URL: [Code of Solution](https://github.com/abhay6786/QR-Code--Scanner)
 - Live Site URL: [live site URL](https://abhay6786.github.io/QR-Code--Scanner/)
 
 ### Built with
