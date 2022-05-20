@@ -29,3 +29,4 @@ This is the design made by me of QR code component.
 
 I got inspiration from https://github.com/MahmmoudKhaled/Front-Mentor-Challenges/tree/master/qr-code
 
+@Sdann26 from frontendmentor helped me.
